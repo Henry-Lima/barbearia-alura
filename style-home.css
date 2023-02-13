@@ -15,24 +15,11 @@
     font-size: 50px;
     
 }
-.titulo-centralizado1{
-    text-align: center;
-    color: #000000;
-    font-weight: bold;  
-    margin-top: 40px;
-    font-size: larger;
-}
+
 .p1{
     margin-top: 20px;
 }
 
-.titulo-centralizado2{
-    text-align: center;
-    text-transform: uppercase;
-    color: #000000;
-    font-weight: bold;
-    margin-top: 50px;
-}
 
 p {                          
     text-align: center;
