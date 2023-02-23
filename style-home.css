@@ -8,6 +8,10 @@
     padding: 30px;
 }
 
+li a {
+ text-align: center;   
+}
+
 .titulo-principal{
     padding-left:20px;
     background: url(banner.jpg);
@@ -71,3 +75,4 @@ footer{
      font-size: 13px;
      margin: 20px 0 0;
 }
+
